@@ -12,5 +12,7 @@ public class Main {
         System.out.println("Terzo commento di Luca!");
         System.out.println("COMMENTO al momento del leak della password");
 
+        System.out.println("---------------------------------------");
+
     }
 }
